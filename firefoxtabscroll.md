@@ -1,5 +1,5 @@
-**FIREFOX TAB SCROLLING WITH MOUSE WHEEL
-**
+**FIREFOX TAB SCROLLING WITH MOUSE WHEEL**
+
 **1.** Open Firefox
 
 **2.** In the address bar, type: **about:config**
