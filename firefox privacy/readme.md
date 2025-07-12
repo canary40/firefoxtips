@@ -1,13 +1,13 @@
 The **user.js** file in Firefox is an _optional configuration_ file that lets you set or override **Firefox preferences** (especially for privacy, security, performance, etc.). This file must be placed inside your Firefox user profile folder.
 _______________________________________________________________________
 **Typical paths:**
-- Windows: C:\Users\<YourUsername>\AppData\Roaming\Mozilla\Firefox\Profiles\<profile_name>\user.js
-- Linux: /home/<YourUsername>/.mozilla/firefox/<profile_name>/user.js
-- macOS: /Users/<YourUsername>/Library/Application Support/Firefox/Profiles/<profile_name>/user.js
+**-** **Windows**: C:\Users\<YourUsername>\AppData\Roaming\Mozilla\Firefox\Profiles\<profile_name>\user.js
+**-** **Linux**: /home/<YourUsername>/.mozilla/firefox/<profile_name>/user.js
+**-** **macOS**: /Users/<YourUsername>/Library/Application Support/Firefox/Profiles/<profile_name>/user.js
 
-Replace <profile_name> with your actual Firefox profile folder name (usually something like xxxxxxx.default-release).
+Replace _<profile_name>_ with your actual Firefox profile folder name (usually something like xxxxxxx.default-release).
 _______________________________________________________________________
-Or you can do that:
+Or you can do this:
 1. **Open** Firefox.
 2. Go to: **about:support** in the address bar.
 3. Look for the **Profile Folder** entry.
