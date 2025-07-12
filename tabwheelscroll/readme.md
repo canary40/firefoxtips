@@ -1,5 +1,7 @@
 **FIREFOX TAB SCROLLING WITH MOUSE WHEEL**
 
+[See the picture](https://raw.githubusercontent.com/canary40/firefoxtips/refs/heads/main/tabwheelscroll/tabwheelscroll.png)
+
 **1.** Open Firefox
 
 **2.** In the address bar, type: **about:config**
